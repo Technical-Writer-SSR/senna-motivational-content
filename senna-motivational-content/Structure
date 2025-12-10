@@ -1,0 +1,11 @@
+📁 senna-motivational-content/
+├── 📄 README.md              # Project introduction
+├── 📁 quotes/
+│   ├── 📄 quotes.md          # Main quotes document
+│   └── 📄 quotes_by_topic.md # Organized by themes
+├── 📁 lessons/
+│   ├── 📄 life_lessons.md
+│   
+└── 📁 articles/
+    ├── 📄 mindset_analysis.md
+    └── 📄 career_insights.md 
