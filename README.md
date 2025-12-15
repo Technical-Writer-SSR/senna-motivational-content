@@ -1,49 +1,3 @@
-# Ayrton Senna Motivational Content Repository
-
-![Ayrton Senna](img.shields.io)
-![F1 Legend](img.shields.io)
-![3x World Champion](img.shields.io)
-![Motivation](img.shields.io)
-![Quotes](img.shields.io)
-![Legacy](img.shields.io)
-![Work & Dedication](img.shields.io)
-![Designed to Win](img.shields.io)
-
-
-![Ayrton Senna](https://via.placeholder.com/1200x400/000080/FFFFFF?text=Ayrton+Senna+Motivational+Content)
-
-**If you no longer go for a gap that exists, you are no longer a racing driver<br>
-I have no idols. I admire work, dedication and competence<br>
-I am not designed to come second or third. I am designed to win**
-
-##  Overview
-A comprehensive collection of Ayrton Senna's most powerful quotes, life lessons, and professional applications. This repository serves as a curated resource for writers, speakers, coaches, and professionals seeking inspiration from one of motorsport's greatest minds.
-
-##  Contents
-- **Quotes**: Categorized collection of Senna's most impactful statements
-- **Life Lessons**: Detailed breakdown of principles from his career
-- **Articles**: In-depth analysis of mindset and performance psychology
-- **Applications**: Practical ways to implement Senna's wisdom today
-
-##  Target Audience
-- Content creators seeking impactful quotes
-- Leaders developing high-performance teams
-- Individuals pursuing personal excellence
-- Coaches and mentors looking for teaching analogies
-
-##  How to Use This Repository
-1. Browse quotes by theme in `/quotes/`
-2. Study life lessons in `/lessons/`
-3. Read analysis in `/articles/`
-4. Implement strategies from applications
-
-##  License
-This content is compiled for educational and inspirational purposes. All quotes belong to Ayrton Senna and are used with respect to his legacy.
-
-##  Contributing
-Found another great Senna quote? Open an Issue or create a Pull Request!
-
-
 
 # Ayrton Senna Motivational Content Repository
 
@@ -72,11 +26,11 @@ Found another great Senna quote? Open an Issue or create a Pull Request!
 This repository is dedicated to the legendary Formula 1 driver **Ayrton Senna**, celebrating his remarkable career, motivational quotes, and enduring legacy. As a three-time World Champion, Senna's philosophy on racing, competition, and life continues to inspire millions around the world.
 
 ### Collection Includes:
-- 📜 **Iconic Quotes** - Senna's most memorable and motivational statements
-- 🏆 **Career Highlights** - Key moments from his legendary racing career
-- 🎥 **Media Resources** - Images, videos, and tributes
-- 📚 **Legacy Documentation** - Articles and stories about his impact
-- 💭 **Philosophy & Mindset** - Insights into his winning mentality
+- **Iconic Quotes** - Senna's most memorable and motivational statements
+- **Career Highlights** - Key moments from his legendary racing career
+- **Media Resources** - Images, videos, and tributes
+- **Legacy Documentation** - Articles and stories about his impact
+- **Philosophy & Mindset** - Insights into his winning mentality
 
 ---
 
