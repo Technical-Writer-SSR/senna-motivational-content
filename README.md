@@ -4,8 +4,8 @@
 
 
 **If you no longer go for a gap that exists, you are no longer a racing driver**
-
-
+**I have no idols. I admire work, dedication and competence**
+**I am not designed to come second or third. I am designed to win**
 
 
 ##  Overview
