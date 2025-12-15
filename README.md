@@ -1,5 +1,15 @@
 # Ayrton Senna Motivational Content Repository
 
+![Ayrton Senna](img.shields.io)
+![F1 Legend](img.shields.io)
+![3x World Champion](img.shields.io)
+![Motivation](img.shields.io)
+![Quotes](img.shields.io)
+![Legacy](img.shields.io)
+![Work & Dedication](img.shields.io)
+![Designed to Win](img.shields.io)
+
+
 ![Ayrton Senna](https://via.placeholder.com/1200x400/000080/FFFFFF?text=Ayrton+Senna+Motivational+Content)
 
 **If you no longer go for a gap that exists, you are no longer a racing driver<br>
