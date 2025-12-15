@@ -2,11 +2,11 @@
 
 ![Ayrton Senna](https://via.placeholder.com/1200x400/000080/FFFFFF?text=Ayrton+Senna+Motivational+Content)
 
-
+```
 **If you no longer go for a gap that exists, you are no longer a racing driver**
 **I have no idols. I admire work, dedication and competence**
 **I am not designed to come second or third. I am designed to win**
-
+```
 
 ##  Overview
 A comprehensive collection of Ayrton Senna's most powerful quotes, life lessons, and professional applications. This repository serves as a curated resource for writers, speakers, coaches, and professionals seeking inspiration from one of motorsport's greatest minds.
